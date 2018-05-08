@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358318828951",
+    "firebase_url": "https://cell-4a22b.firebaseio.com",
+    "project_id": "cell-4a22b",
+    "storage_bucket": "cell-4a22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358318828951:android:cd1413b7eac76792",
+        "android_client_info": {
+          "package_name": "com.supersoft.a58cell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358318828951-do3rje7cl9ik45hbqqd32t1ulir36rmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOKdsD3j5wvkUAyiQ-uAe2rcnPoZ-La4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
